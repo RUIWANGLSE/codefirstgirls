@@ -1,0 +1,59 @@
+<!Doctype html>
+<html>
+<head>
+  <title>Image of a duck</title>
+</head>
+<body>
+  <h1>Hello World!</h1>
+<p>I am currently learning to code with Code First Girls. Going over everything from how the
+internet works, to creating websites and version control with git. A lot to cover in only 8 weeks!
+  Everyone should learn to code, here are some pretty good reasons why...</p>
+
+  <p>HTML is cool</p>
+  <p>CSS is cooler</p>
+  <p>JS is the best</p>
+
+  <br>
+
+  <h2>What do you need to create a website?</h2>
+  <p>Not much!</p>
+
+<ul>
+  <li>A computer (always a good start)</li>
+  <li>A text editor (I am using atom)</li>
+  <li>A web browser (I am using chrome)</li>
+  <li>Some HTML, CSS and JS files</li>
+  </ul>
+
+  <br>
+
+  <p>Follow my progress on <a href="https://github.com"> github</p>
+
+<br>
+
+<img
+src="/Users/wangrui/Downloads/beginners-week-one-5190146fcf9545e0504e4cc0d0aabf54dab10872/duck.jpg"alt="A local image"width="200px">
+<br>
+
+<img
+src="https://lh3.googleusercontent.com/uktzCqm6kjaVSYPCyTAtIcb71FvTO-1bF4cLmQtkon7ge8rcfcjYoHDy3T3Xh5HMoyeUQy0=s85"alt="An image of a duck."width="300px">
+
+
+
+<table class='course 1'>
+  <tr>
+    <th>Name</th>
+
+    <th>Rui Wang</th>
+  </tr>
+  <tr>
+
+    <td>Date</td>
+    <td>Monday, March 11</td>
+  </tr>
+  </table>
+
+  </body>
+</html>
+
+file:///Users/wangrui/Library/Containers/com.apple.Safari/Data/Downloads/beginners-week-one-5190146fcf9545e0504e4cc0d0aabf54dab10872/index.html
